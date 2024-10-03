@@ -38,7 +38,8 @@ header div p {
 
 header ul {
     text-align: center;
-    margin-block: 10px;
+    margin: 10px;
+    padding-top: 5px;
 }
 
 header li a,
