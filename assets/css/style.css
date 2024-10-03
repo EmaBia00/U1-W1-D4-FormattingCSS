@@ -7,6 +7,7 @@
 
 body {
     margin: 0;
+    line-height: 20px;
     font-family: "Poppins", sans-serif;
     font-weight: 500;
     font-style: normal;
@@ -43,7 +44,7 @@ header ul {
 }
 
 header li a,
-i {
+header li i {
     color: white;
     font-weight: 500;
     text-decoration: none;
@@ -88,7 +89,7 @@ main article p strong {
 
 code {
     background-color: #E5DFE0;
-    border-radius: 18%;
+    border-radius: 6px;
     border: 1px solid currentColor;
 }
 
