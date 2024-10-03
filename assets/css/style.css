@@ -92,9 +92,14 @@ code {
     border: 1px solid currentColor;
 }
 
-ul,
+ul {
+    margin-left: 40px;
+    list-style: disc;
+}
+
 ol {
     margin-left: 40px;
+    list-style: decimal;
 }
 
 li {
