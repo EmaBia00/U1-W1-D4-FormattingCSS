@@ -94,6 +94,9 @@ code {
 
 ul {
     margin-left: 40px;
+}
+
+main ul {
     list-style: disc;
 }
 
