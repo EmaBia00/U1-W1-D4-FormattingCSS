@@ -189,3 +189,25 @@ aside i {
 }
 
 /* FOOTER */
+footer {
+    margin-block: 20px;
+    background: linear-gradient(4deg, rgb(48 8 91) 0%, rgba(1, 84, 102, 1) 35%, rgba(0, 212, 255, 1) 200%);
+    max-width: 350px;
+    min-height: 150px;
+    margin-inline: auto;
+    box-shadow: 0 3px 2px rgb(0 0 0 / 35%);
+    text-align: center;
+    color: white;
+}
+
+footer p {
+    padding-block: 15px;
+}
+
+footer address {
+    padding-block: 10px;
+}
+
+footer address a {
+    color: #FF00FE;
+}
