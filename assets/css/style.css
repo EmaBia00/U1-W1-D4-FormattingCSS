@@ -196,7 +196,8 @@ aside h2 {
 
 aside div {
     padding: 20px;
-    background-color: #E1EAEB;
+    margin-block: 10px;
+    background-color: rgb(231, 226, 226);
 }
 
 aside a {
@@ -205,6 +206,11 @@ aside a {
 
 aside i {
     color: black;
+    font-size: 0.8em;
+}
+
+.textalign {
+    text-align: right;
     font-size: 0.8em;
 }
 
